@@ -1,4 +1,4 @@
-baseURL = "https://554c63fc.notion-hugo-cv7.pages.dev/posts/markdown/"
+baseURL = "https://554c63fc.notion-hugo-cv7.pages.dev/"
 languageCode = "en-us"
 title = "Ekston Weekend Reader"
-theme = "DoIt"
+theme = "congo"

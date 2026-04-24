@@ -1,10 +1,20 @@
-version = "0.3.X"
-[page]
-[page.math]
-enable = true
-blockLeftDelimiter = "\\["
-blockRightDelimiter = "\\]"
-inlineLeftDelimiter = "\\("
-inlineRightDelimiter = "\\)"
-copyTex = true
-mhchem = true
+colorScheme = "congo"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+[header]
+layout = "basic"
+
+[footer]
+showCopyright = true
+showThemeAttribution = true
+
+[homepage]
+layout = "page"
+
+[article]
+showDate = true
+showAuthor = true
+showReadingTime = true
+showTableOfContents = true
+showRelatedContent = false
