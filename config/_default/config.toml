@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://554c63fc.notion-hugo-cv7.pages.dev/posts/markdown/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ekston Weekend Reader"
 theme = "DoIt"
