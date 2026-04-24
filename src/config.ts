@@ -53,7 +53,7 @@ export async function loadConfig(): Promise<Config> {
       );
     const url = new URL(userConfig.mount.page_url);
     const len = url.pathname.length;
-    if (len < 32) throw Error(`[Error] The page_url ${url.href} is invalid`);
+    // if (len < 32) throw Error(`[Error] The page_url ${url.href} is invalid`);
     const pageId = url.pathname.slice(len - 32, len);
     const notion = new Client({
       auth: process.env.NOTION_TOKEN,
