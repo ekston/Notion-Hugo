@@ -4,7 +4,7 @@ const userConfig: UserConfig = {
     base_url: "https://notion-hugo.pages.dev/",
     mount: {
         manual: false,
-        page_url: 'https://554c63fc.notion-hugo-cv7.pages.dev/posts/markdown/',
+        page_url: 'https://554c63fc.notion-hugo-cv7.pages.dev/',
         pages: [
             // {
             //     page_id: '<page_id>',
