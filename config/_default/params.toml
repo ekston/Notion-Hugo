@@ -10,7 +10,9 @@ showCopyright = true
 showThemeAttribution = true
 
 [homepage]
-layout = "page"
+layout = "profile"
+showRecent = true
+showRecentItems = 5
 
 [article]
 showDate = true

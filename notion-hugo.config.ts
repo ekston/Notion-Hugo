@@ -9,7 +9,7 @@ const userConfig: UserConfig = {
         databases: [
             {
                 database_id: '36e5484b5bd783849a838178dc874e79',
-                target_folder: '.'
+                target_folder: 'posts'
             }
         ],
     }
