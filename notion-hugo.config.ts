@@ -4,16 +4,11 @@ const userConfig: UserConfig = {
     base_url: "https://ekston.github.io/Notion-Hugo/",
     mount: {
         manual: true,
-        page_url: 'https://google.com',
-        pages: [
-            {
-                page_id: '45eb121158b9489480ec000fd25c812b',
-                target_folder: '.'
-            }
-        ],
+        page_url: '',
+        pages: [],
         databases: [
             {
-                database_id: 'b7b1816c05ec464391c8c111fa242985',
+                database_id: '36e5484b5bd783849a838178dc874e79',
                 target_folder: '.'
             }
         ],
